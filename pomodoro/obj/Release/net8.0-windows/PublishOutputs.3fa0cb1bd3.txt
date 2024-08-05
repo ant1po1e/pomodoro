@@ -1,0 +1,5 @@
+C:\Users\symam\Documents\Builded Winform Apps\Pomodoro\pomodoro.exe
+C:\Users\symam\Documents\Builded Winform Apps\Pomodoro\pomodoro.dll
+C:\Users\symam\Documents\Builded Winform Apps\Pomodoro\pomodoro.deps.json
+C:\Users\symam\Documents\Builded Winform Apps\Pomodoro\pomodoro.runtimeconfig.json
+C:\Users\symam\Documents\Builded Winform Apps\Pomodoro\pomodoro.pdb
