@@ -145,7 +145,7 @@
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Pomodoro";
+            Text = "Apolz Pomodoro";
             ResumeLayout(false);
         }
 

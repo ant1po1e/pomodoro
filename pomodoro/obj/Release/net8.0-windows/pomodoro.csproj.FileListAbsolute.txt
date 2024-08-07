@@ -17,3 +17,4 @@ C:\Users\symam\source\repos\pomodoro\pomodoro\obj\Release\net8.0-windows\refint\
 C:\Users\symam\source\repos\pomodoro\pomodoro\obj\Release\net8.0-windows\pomodoro.pdb
 C:\Users\symam\source\repos\pomodoro\pomodoro\obj\Release\net8.0-windows\pomodoro.genruntimeconfig.cache
 C:\Users\symam\source\repos\pomodoro\pomodoro\obj\Release\net8.0-windows\ref\pomodoro.dll
+C:\Users\symam\source\repos\pomodoro\pomodoro\obj\Release\net8.0-windows\pomodoro.sourcelink.json
